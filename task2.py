@@ -1,3 +1,5 @@
+from data import price
+
 #TODO 1 Run this program
 #Let'S debug.
 #This time the problem is causing an error
